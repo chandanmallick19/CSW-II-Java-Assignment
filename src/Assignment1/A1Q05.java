@@ -5,7 +5,7 @@ times. Explain its time complexity.
 package Assignment1;
 import java.util.Scanner;
 
-public class A1Q5 {
+public class A1Q05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of elements in the array: ");

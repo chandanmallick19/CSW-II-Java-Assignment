@@ -5,7 +5,7 @@ find a contiguous sub-array whose sum of elements is maximum.
 package Assignment1;
 import java.util.Scanner;
 
-public class A1Q6 {
+public class A1Q06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of elements in the array: ");

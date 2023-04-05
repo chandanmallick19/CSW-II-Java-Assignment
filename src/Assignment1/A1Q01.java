@@ -5,7 +5,7 @@ Calculate its time complexity with proper explanation.
 package Assignment1;
 import java.util.Scanner;
 
-public class A1Q1 {
+public class A1Q01 {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             System.out.print("Enter a number: ");

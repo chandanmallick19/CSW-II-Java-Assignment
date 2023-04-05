@@ -5,7 +5,7 @@ Calculate its time complexity.
 package Assignment1;
 import java.util.Scanner;
 
-public class A1Q2 {
+public class A1Q02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a decimal number: ");

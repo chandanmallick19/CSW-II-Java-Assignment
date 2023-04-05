@@ -5,7 +5,7 @@ complexity.
 package Assignment1;
 import java.util.Scanner;
 
-public class A1Q3 {
+public class A1Q03 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");

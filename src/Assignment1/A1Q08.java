@@ -8,7 +8,7 @@ package Assignment1;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class A1Q8 {
+public class A1Q08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of elements in the array: ");
