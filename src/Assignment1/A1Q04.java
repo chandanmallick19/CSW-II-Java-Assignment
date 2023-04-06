@@ -47,3 +47,10 @@ public class A1Q04 {
 The time complexity of binary search is O(log n).
  */
 
+/* OUTPUT
+Enter the number of elements in the array: 5
+Enter the elements in sorted order:
+1 2 3 4 5
+Enter the element to be searched: 4
+Element found at index 3 in the array.
+ */

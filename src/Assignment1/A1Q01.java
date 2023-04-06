@@ -32,3 +32,8 @@ public class A1Q01 {
 /*
 The time complexity of this algorithm is O(sqrt(n)).
  */
+
+/* OUTPUT
+Enter a number: 1234
+1234 is not a prime number
+ */

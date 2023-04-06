@@ -41,3 +41,10 @@ public class A1Q09 {
 /*
 The time complexity of this program is O(n).
  */
+
+/* OUTPUT
+Enter the number of elements in the array: 5
+Enter the elements of the array:
+6 2 4 3 1
+The smallest positive number missing in the array is 5
+ */

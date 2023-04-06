@@ -23,3 +23,8 @@ public class A1Q02 {
 /*
 The time complexity of this program is O(log n)
  */
+
+/* OUTPUT
+Enter a decimal number: 100
+Binary equivalent: 1100100
+ */

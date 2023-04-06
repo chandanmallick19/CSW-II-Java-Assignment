@@ -42,3 +42,10 @@ public class A1Q10 {
 /*
 The time complexity of this program is O(n).
  */
+
+/*
+Enter the number of elements in the array: 6
+Enter the sorted elements of the array:
+0 8 2 6 4 10
+The rearranged array in maximum-minimum form is [10, 0, 4, 8, 6, 2]
+ */

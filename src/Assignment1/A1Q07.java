@@ -34,3 +34,9 @@ public class A1Q07 {
 The time complexity of this program is O(n log n).
  */
 
+/* OUTPUT
+Enter the number of elements in the array: 5
+Enter the elements of the array:
+0 2 4 6 8
+The array arranged in waveform is [2, 0, 6, 4, 8]
+ */

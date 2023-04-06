@@ -46,3 +46,12 @@ public class A1Q05 {
 /*
 The time complexity of this program is O(n).
  */
+
+/* OUTPUT
+Enter the number of elements in the array: 5
+Enter the elements of the array:
+5 6 7 8 9
+Enter the number of rotations: 3
+The rotated array is:
+7 8 9 5 6
+ */

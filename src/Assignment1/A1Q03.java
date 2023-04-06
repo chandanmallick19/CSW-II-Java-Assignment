@@ -24,3 +24,7 @@ public class A1Q03 {
 The time complexity of this program is O(log n).
  */
 
+/* OUTPUT
+Enter a number: 1234
+Reverse of 0 is 4321
+ */

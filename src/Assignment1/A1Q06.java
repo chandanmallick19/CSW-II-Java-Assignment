@@ -35,3 +35,10 @@ public class A1Q06 {
 /*
 The time complexity of this program is O(n^2).
  */
+
+/* OUTPUT
+Enter the number of elements in the array: 5
+Enter the elements of the array:
+1 3 5 7 9
+The maximum sum of a contiguous sub-array is 25
+ */

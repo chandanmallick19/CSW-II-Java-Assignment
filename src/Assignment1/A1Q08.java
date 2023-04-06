@@ -37,3 +37,10 @@ public class A1Q08 {
 /*
 The time complexity of this program is O(n).
  */
+
+/* OUTPUT
+Enter the number of elements in the array: 5
+Enter the elements of the array:
+4 3 1 0 2
+The array arranged such that value i is stored at arr[i] is [0, 1, 2, 3, 4]
+ */
