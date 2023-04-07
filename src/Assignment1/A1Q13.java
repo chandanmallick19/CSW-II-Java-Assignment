@@ -43,3 +43,7 @@ public class A1Q13 {
         System.out.println("Maximum sum is: " + maxSum);
     }
 }
+
+/* OUTPUT
+Maximum sum is: 35
+ */

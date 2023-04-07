@@ -38,3 +38,6 @@ public class A1Q11 {
     }
 }
 
+/* OUTPUT
+Maximum sum of arr[i]*(i+1) for all elements with rotation: 105
+ */

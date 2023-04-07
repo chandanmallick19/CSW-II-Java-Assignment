@@ -30,3 +30,7 @@ public class A1Q15{
     }
 }
 
+/* OUTPUT
+GCD of 48 and 36 using recursive algorithm is 12
+GCD of 48 and 36 using iterative algorithm is 12
+ */

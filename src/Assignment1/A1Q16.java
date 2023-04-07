@@ -44,3 +44,9 @@ public class A1Q16 {
     }
 }
 
+/* OUTPUT
+Enter an integer: 15
+Permutations of [5, 1] are:
+[5, 1]
+[1, 5]
+ */

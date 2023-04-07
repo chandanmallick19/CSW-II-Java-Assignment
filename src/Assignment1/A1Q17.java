@@ -44,3 +44,11 @@ public class A1Q17 {
 /*
 The time complexity of binary search is O(log n).
  */
+
+/* OUTPUT
+Enter the size of the array: 5
+Enter the elements of the array in ascending order:
+5 6 7 8 9
+Enter the search value: 8
+Element found at index 3
+ */

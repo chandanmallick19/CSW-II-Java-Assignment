@@ -22,3 +22,7 @@ public class A1Q12 {
         System.out.println("Maximum distance is: " + maxDistance);
     }
 }
+
+/* OUTPUT
+Maximum distance is: 7
+ */
