@@ -71,3 +71,22 @@ public class A2Q2 {
         }
     }
 
+/* OUTPUT */
+/*
+List of Students:
+Name: Chandan, Age: 24, Mark: 85.0
+Name: Sam, Age: 23, Mark: 90.0
+Name: Lucy, Age: 20, Mark: 80.0
+
+Enter the existing student name to display : Chandan
+Enter the age: 24
+Enter the mark: 85
+The student exists in the list.
+
+Enter the name of the student to remove: Lucy
+Enter the age: 20
+Enter the mark: 80
+The student has been removed from the list.
+
+The number of students in the list is: 2
+ */
