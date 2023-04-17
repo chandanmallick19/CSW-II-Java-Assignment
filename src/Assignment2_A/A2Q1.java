@@ -1,3 +1,13 @@
+/*
+Write a program to create an ArrayList of Integer type and perform
+the below operation on it.
+(a.) Display the list
+(b.) Ask the user to enter a number and search that number is it
+present in the list or not.
+(c.) Remove an element from an asked position.
+(d.) Add a condition to check the ArrayList is empty or not.
+ */
+
 package Assignment2_A;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -94,3 +104,100 @@ public class A2Q1 {
             }
         }
     }
+
+    /*OUTPUT*/
+/*
+Enter your choice:
+1. Display the list
+2. Search for a number in the list
+3. Remove an element from the list
+4. Add an element to the list
+5. Check if the list is empty
+6. Exit
+4
+Enter the number to add:
+2
+2 was added to the list
+Enter your choice:
+1. Display the list
+2. Search for a number in the list
+3. Remove an element from the list
+4. Add an element to the list
+5. Check if the list is empty
+6. Exit
+4
+Enter the number to add:
+4
+4 was added to the list
+Enter your choice:
+1. Display the list
+2. Search for a number in the list
+3. Remove an element from the list
+4. Add an element to the list
+5. Check if the list is empty
+6. Exit
+4
+Enter the number to add:
+6
+6 was added to the list
+Enter your choice:
+1. Display the list
+2. Search for a number in the list
+3. Remove an element from the list
+4. Add an element to the list
+5. Check if the list is empty
+6. Exit
+1
+The list contains: 2 4 6
+Enter your choice:
+1. Display the list
+2. Search for a number in the list
+3. Remove an element from the list
+4. Add an element to the list
+5. Check if the list is empty
+6. Exit
+2
+Enter the number to search:
+4
+4 is present in the list
+Enter your choice:
+1. Display the list
+2. Search for a number in the list
+3. Remove an element from the list
+4. Add an element to the list
+5. Check if the list is empty
+6. Exit
+3
+Enter the position of the element to remove (0-indexed):
+2
+6 was removed from position 2
+Enter your choice:
+1. Display the list
+2. Search for a number in the list
+3. Remove an element from the list
+4. Add an element to the list
+5. Check if the list is empty
+6. Exit
+1
+The list contains: 2 4
+Enter your choice:
+1. Display the list
+2. Search for a number in the list
+3. Remove an element from the list
+4. Add an element to the list
+5. Check if the list is empty
+6. Exit
+5
+The list is not empty
+Enter your choice:
+1. Display the list
+2. Search for a number in the list
+3. Remove an element from the list
+4. Add an element to the list
+5. Check if the list is empty
+6. Exit
+6
+Exiting...
+
+Process finished with exit code 0
+ */
