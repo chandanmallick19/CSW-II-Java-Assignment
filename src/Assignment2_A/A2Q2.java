@@ -1,3 +1,15 @@
+/*
+Create a class Student having member variable name, age, mark and
+required member variable. Create an LikedList of Student type and
+perform the below operation on it.
+(a.) Display the list
+(b.) Ask the user to enter a student object and print the existence of
+the object. Specify is the object is search according to reference
+or contain.
+(c.) Remove an specified student object.
+(d.) Count the number of object present in the list.
+ */
+
 package Assignment2_A;
 import java.util.LinkedList;
 import java.util.Scanner;
