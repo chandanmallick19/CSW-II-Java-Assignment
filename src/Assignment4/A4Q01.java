@@ -4,7 +4,7 @@ Given an unsorted list of n elements, find the first element, which is repeated.
 
 package Assignment4;
 
-public class A4Q1 {
+public class A4Q01 {
 
     public static void main(String[] args) {
         int[] list = {1, 2, 3, 2, 5};

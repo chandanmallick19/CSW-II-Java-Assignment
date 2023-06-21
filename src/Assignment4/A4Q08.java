@@ -7,7 +7,7 @@ repeated continuously then they should be added once.
 package Assignment4;
 import java.util.HashSet;
 
-public class A4Q8 {
+public class A4Q08 {
 
     public static void main(String[] args) {
         int[] arr = {1, 1, 2, 3, 4, 2, 1};

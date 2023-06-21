@@ -7,7 +7,7 @@ appear odd number of times.
 package Assignment4;
 import java.util.*;
 
-public class A4Q6 {
+public class A4Q06 {
 
     public static void main(String[] args) {
         int[] list = {1, 2, 3, 2, 3, 1, 3};

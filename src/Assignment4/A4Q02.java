@@ -6,7 +6,7 @@ package Assignment4;
 
 import java.util.*;
 
-public class A4Q2 {
+public class A4Q02 {
 
     public static void main(String[] args) {
         int[] list = {1, 2, 3, 2, 5};

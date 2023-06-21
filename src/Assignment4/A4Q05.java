@@ -8,7 +8,7 @@ package Assignment4;
 
 import java.util.*;
 
-public class A4Q5 {
+public class A4Q05 {
 
     public static void main(String[] args) {
         int[] list = {1, 4, 5};

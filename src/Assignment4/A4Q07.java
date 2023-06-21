@@ -8,7 +8,7 @@ complexity.
 package Assignment4;
 import java.util.*;
 
-public class A4Q7 {
+public class A4Q07 {
 
     public static void main(String[] args) {
         int[] list = {1, 2, 3, 2, 3, 1, 3};

@@ -7,7 +7,7 @@ package Assignment4;
 import java.util.*;
 import static java.lang.Math.abs;
 
-public class A4Q9 {
+public class A4Q09 {
 
     public static List<Integer> findClosestToZero(List<Integer> list) {
         int minSum = Integer.MAX_VALUE;
